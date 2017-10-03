@@ -1,0 +1,12 @@
+<mvc:View xmlns:viz="sap.viz.ui5.controls" controllerName="DemoVizFrameDemoVizFrame.controller.View1" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc"
+	displayBlock="true" xmlns="sap.m">
+	<App>
+		<pages>
+			<Page title="Viz Frame Charts">
+				<content>
+					<viz:VizFrame id="idcolumn" width="100%"/>
+				</content>
+			</Page>
+		</pages>
+	</App>
+</mvc:View>
